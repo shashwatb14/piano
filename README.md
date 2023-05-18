@@ -1,4 +1,4 @@
-# Virtual Piano
+# Piano
 🎹 A virtual playable piano
 
 ## Features
