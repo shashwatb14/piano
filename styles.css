@@ -5,6 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    transition: all 0.2s ease;
 }
 
 body {
@@ -14,6 +15,7 @@ body {
     min-height: 100vh;
     background: #fefefe;
     padding: 0 10px;
+    flex-direction: column;
 }
 
 .wrapper {
@@ -130,4 +132,13 @@ header .column span {
 
 .piano-keys .key.hide span {
     display: none;
+}
+
+#hint {
+    margin-top: 2%;
+    color: #ffffff;
+}
+
+#hint:hover {
+    color: #000000;
 }
