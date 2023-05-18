@@ -1,5 +1,5 @@
 # piano
-🎹 A virtual playable piano
+🎹 a virtual playable piano
 
 ## features
 - ability to play multiple chords at once!
