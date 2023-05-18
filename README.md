@@ -1,9 +1,9 @@
-# Piano
+# piano
 🎹 A virtual playable piano
 
-## Features
-- Ability to play multiple chords at once!
-- Adjust volume and toggle labels
+## features
+- ability to play multiple chords at once!
+- adjust volume and toggle labels
 - 2 hidden songs that will play after playing a specific combination of keys!
 
-**Disclaimer** - might be laggy online
+**disclaimer** - might be laggy online
