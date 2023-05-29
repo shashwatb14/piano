@@ -1,6 +1,8 @@
 # piano
 🎹 a virtual playable piano
 
+![Piano](./virtual_piano.png)
+
 ## features
 - adjust volume and toggle labels
 - ability to play multiple chords at once!
